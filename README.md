@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-stats-preview-card-with-html-and-css-flexbox-62Gzjhkzt)
+- Live Site URL: [Live Site](https://leonardoyz.github.io/Stats-Preview-Card/)
 
 ## My process
 
