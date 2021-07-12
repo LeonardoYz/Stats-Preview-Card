@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-stats-preview-card-with-html-and-css-flexbox-62Gzjhkzt)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-stats-preview-card-with-html-and-css-flexbox)
 - Live Site URL: [Live Site](https://leonardoyz.github.io/Stats-Preview-Card/)
 
 ## My process
